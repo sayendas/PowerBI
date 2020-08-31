@@ -1,0 +1,11 @@
+Rank	Title	Distributor	Revenue £m	Year
+1	Star Wars: The Last Jedi	Walt Disney	69.4	2017
+2	Beauty and the Beast	Walt Disney	67.8	2017
+3	Dunkirk	Warner Bros	53.3	2017
+4	Despicable Me 3	Universal	44.3	2017
+5	Guardians of the Galaxy Vol. 2	Walt Disney	38.8	2017
+6	Paddington 2	Studiocanal	36.6	2017
+7	It	Warner Bros	29.9	2017
+8	Thor: Ragnarok	Walt Disney	29	2017
+9	La La Land	Lionsgate UK	28.6	2017
+10	Spider-Man: Homecoming	Sony	28.4	2017

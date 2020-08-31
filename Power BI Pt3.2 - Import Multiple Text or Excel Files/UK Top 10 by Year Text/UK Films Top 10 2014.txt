@@ -1,0 +1,11 @@
+Rank	Title	Distributor	Revenue £m	Year
+1	The Hobbit: The Battle of the Five Armies	Warner Bros	41.3	2014
+2	Paddington	Studiocanal	37.1	2014
+3	The Lego Movie	Warner Bros	34.3	2014
+4	The Inbetweeners 2	Entertainment	33.3	2014
+5	Dawn Of The Planet Of The Apes	20th Century Fox	32.7	2014
+6	The Hunger Games: Mockingjay, Part 1	Lionsgate UK	31.1	2014
+7	Guardians Of The Galaxy	Walt Disney	28.5	2014
+8	X-Men: Days Of Future Past	20th Century Fox	27.1	2014
+9	How To Train Your Dragon 2	20th Century Fox	25	2014
+10	The Amazing Spider-Man 2	Sony	24	2014

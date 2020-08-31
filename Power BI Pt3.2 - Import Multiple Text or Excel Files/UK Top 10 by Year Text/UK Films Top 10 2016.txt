@@ -1,0 +1,11 @@
+Rank	Title	Distributor	Revenue £m	Year
+1	Rogue One: A Star Wars Story	Walt Disney	56.4	2016
+2	Fantastic Beasts and Where to Find Them	Warner Bros	52.1	2016
+3	Bridget Jones's Baby	Universal	48.1	2016
+4	The Jungle Book	Walt Disney	46.2	2016
+5	Finding Dory	Walt Disney	42.9	2016
+6	Deadpool	20th Century Fox	37.8	2016
+7	Captain America: Civil War	Walt Disney	36.9	2016
+8	Batman V Superman: Dawn Of Justice	Warner Bros	36.6	2016
+9	The Secret Life Of Pets	Universal	36.3	2016
+10	Star Wars: the Force Awakens	Walt Disney	35.9	2016

@@ -1,0 +1,11 @@
+Rank	Title	Distributor	Worldwide gross	Year
+1	Frozen	Disney	"$1,276,480,335"	2013
+2	Iron Man 3	Disney	"$1,214,811,252"	2013
+3	Despicable Me 2	Universal	"$970,761,885"	2013
+4	The Hobbit: The Desolation of Smaug	Warner Bros	"$958,366,855"	2013
+5	The Hunger Games: Catching Fire	Lionsgate	"$865,011,746"	2013
+6	Fast & Furious 6	Universal	"$788,679,850"	2013
+7	Monsters University	Disney	"$744,229,437"	2013
+8	Gravity	Warner Bros	"$723,192,705"	2013
+9	Man of Steel	Warner Bros	"$668,045,518"	2013
+10	Thor: The Dark World	Disney	"$644,571,402"	2013
